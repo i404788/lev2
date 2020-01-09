@@ -49,7 +49,7 @@
   "homepage": "https://github.com/maxlath/lev2",
   "dependencies": {
     "level": "5.0.0",
-    "level-party":"^3.0.4",
+    "level-party":"^4.0.0",
     "minimatch": "^3.0.4",
     "minimist": "^1.1.0",
     "multilevel": "^7.3.0",
